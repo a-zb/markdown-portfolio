@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![This is an image](https://c1.neweggimages.com/ProductImageCompressAll1280/14-932-330-V10.jpg)
